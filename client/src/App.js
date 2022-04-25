@@ -6,8 +6,16 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+
+
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          LOGIN2222
+        </p>
+        <p>
+          Username:
+        </p>
+        <p>
+          Password:
         </p>
         <a
           className="App-link"
@@ -15,8 +23,17 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Login
         </a>
+        <a
+          className="Deals"
+          href="server 8080"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Login
+        </a>
+
       </header>
     </div>
   );
